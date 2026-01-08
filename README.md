@@ -5,6 +5,7 @@
 - 🏫 Bulacan Agricultural State College<br/>
 - 🌐 Interested in Web Design and Front-End Development<br/>
 - 📱 Currently learning **React Native** for mobile application development<br/>
+- 💡 Consistent **Dean’s Lister** (2023-Present)
 
 ### 📚 Interests
 - User Interface & User Experience (UI/UX) Design<br/>
