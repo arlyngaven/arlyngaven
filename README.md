@@ -4,7 +4,6 @@
 - 🎓 3rd Year Information Technology Student (20 years old)<br/>
 - 🏫 Bulacan Agricultural State College<br/>
 - 🌐 Interested in Web Design and Front-End Development<br/>
-- 📱 Currently learning **React Native** for mobile application development<br/>
 - 💡 Consistent **Dean’s Lister** (2023-Present)
 
 ### 📚 Interests
