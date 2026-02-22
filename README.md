@@ -1,10 +1,10 @@
-## Hi there, I'm Arlyn!👋
+## Hi there, I'm Arlyn!
 
 ### 👨‍💻 About Me
-- 🎓 3rd Year Information Technology Student (20 years old)<br/>
-- 🏫 Bulacan Agricultural State College<br/>
-- 🌐 Interested in Web Design and Front-End Development<br/>
-- 💡 Consistent **Dean’s Lister** (2023-Present)
+- 3rd Year Information Technology Student (20 years old)<br/>
+- Bulacan Agricultural State College<br/>
+- Interested in Web Design and Front-End Development<br/>
+- Consistent **Dean’s Lister** (2023-Present)
 
 ### 📚 Interests
 - User Interface & User Experience (UI/UX) Design<br/>
